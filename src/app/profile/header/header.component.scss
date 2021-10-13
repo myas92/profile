@@ -1,0 +1,20 @@
+.navbar-inverse{
+    background-color: red!important;
+}
+
+.nav-underline{
+    background-color: red!important;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    // background: #4a4195 !important;
+}
+
+
+
+@media screen and (max-width: 992px)
+{
+    .header-position
+    {
+        margin-left: 90% !important;
+    }
+}

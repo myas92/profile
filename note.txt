@@ -1,0 +1,11 @@
+user vercel
+
+1: npm install -g vercel
+
+2: vercel
+
+3: vercel --prod
+
+
+https://vercel.com/docs/concepts/deployments/overview
+https://vercel.com/docs/cli
